@@ -1,4 +1,4 @@
-package com.example.designmodel;
+package com.example.designmodel.single;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;
