@@ -3,6 +3,9 @@ package com.example.designmodel.adapter;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 本方案是对象适配器
+ */
 public class ExecuteMain {
 
     private List<DC5Adapter> list = new ArrayList<>();

@@ -27,4 +27,9 @@ public class TestGlobleObject {
     public void getMsg(){
         SingleObject.getInstance().do2();
     }
+
+    public static void main (String [] sr){
+        SingleObject sj = SingleObject.getInstance();
+        sj.do1("sef");
+    }
 }
